@@ -1,0 +1,29 @@
+
+d	java:S106"9Replace this use of System.out or System.err by a logger.(ù…´ÃHİ	RMAJORZ
+CODE_SMELL
+…
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(®ƒè¦Hæ	RMINORZ
+CODE_SMELL
+Š
+java:S2293	"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÁæĞ²úÿÿÿÿHÚ	RMINORZ
+CODE_SMELL
+[
+java:S3740"/Provide the parametrized type for this generic.(İÈ°”Há	RMAJORZ
+CODE_SMELL
+Œ
+java:S3008	"TRename this field "Timeslot2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁæĞ²úÿÿÿÿ8Å«“ù/HÙ	RMINORZ
+CODE_SMELL
+R
+java:S1481"&Remove this unused "b" local variable.(ÛºŠêHŞ	RMINORZ
+CODE_SMELL
+‰
+java:S3008"VRename this field "Filledslot2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ƒè¦8Å«“ù/Hâ	RMINORZ
+CODE_SMELL
+Š
+java:S1171
+"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿHÜ	RMAJORZ
+CODE_SMELL
+i	java:S106""9Replace this use of System.out or System.err by a logger.(÷ùÚ…øÿÿÿÿHå	RMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(ˆ‹İÂüÿÿÿÿHà	RMAJORZ
+CODE_SMELL

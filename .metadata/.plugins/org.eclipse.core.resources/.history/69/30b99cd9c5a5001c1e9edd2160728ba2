@@ -1,0 +1,22 @@
+package org.assign1.java;
+/*  Perform analysis on ListIterator and Iterator and provide your handson examples on each analysis.
+*/
+import java.util.LinkedList;
+
+public class Task9 {
+
+	public static void main(String[] args) {
+
+		LinkedList cricket = new LinkedList();
+		cricket.add("Virat");
+		cricket.add("Rohit");
+		cricket.add("SMith");
+		cricket.add("Kane");
+		cricket.add("Bhuvi");
+		cricket.add("Sreeshanth");
+		
+		
+
+	}
+
+}

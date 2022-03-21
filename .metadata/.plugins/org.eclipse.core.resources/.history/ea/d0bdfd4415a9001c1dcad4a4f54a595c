@@ -1,0 +1,20 @@
+package org.assign15.java;
+
+public class Task14 {
+
+		public static void main(String[] args) throws IOException {
+		Employee emp=new Employee(100,"Krishna",35000);
+		Employee emp1=new Employee(101,"Ram",47000);
+		List <Employee> ls=new ArrayList<>();
+		ls.add(emp);
+		ls.add(emp2);
+		File f = new File("D:\\readOnlyFile.txt");
+		PrintWriter pw =new PrintWriter(f);
+		pw.print(ls);
+		pw.close();
+		System.out.println("This file is Read only file "+f.setReadOnly());
+
+		}
+
+		}
+}

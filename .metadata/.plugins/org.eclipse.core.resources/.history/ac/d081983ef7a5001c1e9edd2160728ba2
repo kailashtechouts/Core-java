@@ -1,0 +1,48 @@
+package org.assign1.java;
+
+/*Implement an exception "InvalidUserName".
+User inputs his UserName in console.
+When length of userName is <10 or if it has "&", this should be handled by the exception*/
+
+class InvalidUserName  extends Exception  
+{  
+	public InvalidUserName (String str)  
+	{  
+
+		super(str);  
+	}  
+
+}  
+public class Task19 {
+
+	static int  length (int i) throws InvalidUserName{    
+		if(length(i) < 10){  
+
+
+			throw new InvalidUserName("age is not valid to vote");    
+		}  
+		else {   
+			System.out.println("welcome to vote");   
+		}
+		return i;   
+	}    
+
+
+	public static void main(String args[])  {  
+		try  
+		{  
+
+			length(16);  
+		}  
+		catch (InvalidUserName ex)  
+		{  
+			System.out.println("Caught the exception");  
+
+			System.out.println("Exception occured: " + ex);  
+		}  
+
+		System.out.println("rest of the code...");    
+	}  
+}  
+
+

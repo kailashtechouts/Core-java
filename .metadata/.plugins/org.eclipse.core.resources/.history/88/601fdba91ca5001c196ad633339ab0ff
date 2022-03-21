@@ -1,0 +1,70 @@
+package org.collectionmaintask;
+
+import java.io.File;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.StringTokenizer;
+
+import org.apache.poi.ss.usermodel.Row;
+import org.apache.poi.ss.usermodel.Cell;
+import org.apache.poi.xssf.usermodel.XSSFRow;
+import org.apache.poi.xssf.usermodel.XSSFSheet;
+import org.apache.poi.xssf.usermodel.XSSFWorkbook;
+
+public class SaveTheFile {
+	XSSFWorkbook workbook = new XSSFWorkbook(); 
+	XSSFSheet ss = workbook.createSheet(" Badminton Data ");
+	XSSFSheet ss1 = workbook.createSheet(" Football  Data ");
+	XSSFSheet ss2 = workbook.createSheet(" Boxcricket Data ");
+	XSSFRow row;
+	public void saveBadminton() throws IOException{
+		int rowid = 0;
+		for(Integer i : Badminton.Filledslot.keySet()) {
+			row = ss.createRow(rowid++);
+		String str = (Integer.toString(i))+" "+Badminton.Filledslot.get(i);
+		StringTokenizer st = new StringTokenizer(str," ");
+		int cellid=0;
+		while (st.hasMoreTokens()) {
+			Cell cell = row.createCell(cellid++);
+			cell.setCellValue(st.nextToken());
+		}
+	}
+	FileOutputStream out = new FileOutputStream(new File("D:\\sportscomplex\\sportscomplex.xlsx"));
+	workbook.write(out);
+	out.close();
+	}
+	public void saveFootBall() throws IOException{
+		int rowid = 0;
+		for(Integer i : Football.Filledslot1.keySet()) {
+			row = ss1.createRow(rowid++);
+		String str = (Integer.toString(i))+" "+Football.Filledslot1.get(i);
+		StringTokenizer st = new StringTokenizer(str," ");
+		int cellid=0;
+		while (st.hasMoreTokens()) {
+			Cell cell = row.createCell(cellid++);
+			cell.setCellValue(st.nextToken());
+		}
+	}
+	FileOutputStream out = new FileOutputStream(new File("D:\\sportscomplex\\sportscomplex.xlsx"));
+	workbook.write(out);
+	out.close();
+}
+	public void saveBoxCricket() throws IOException{
+		int rowid = 0;
+		for(Integer i : Boxcricket.Filledslot2.keySet()) {
+			row = ss1.createRow(rowid++);
+		String str = (Integer.toString(i))+" "+Boxcricket.Filledslot2.get(i);
+		StringTokenizer st = new StringTokenizer(str," ");
+		int cellid=0;
+		while (st.hasMoreTokens()) {
+			Cell cell = row.createCell(cellid++);
+			cell.setCellValue(st.nextToken());
+		}
+	}
+	FileOutputStream out = new FileOutputStream(new File("D:\\sportscomplex\\sportscomplex.xlsx"));
+	workbook.write(out);
+	out.close();
+	}
+}
+
+

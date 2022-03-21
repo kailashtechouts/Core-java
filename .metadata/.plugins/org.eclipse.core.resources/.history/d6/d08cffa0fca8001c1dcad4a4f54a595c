@@ -1,0 +1,22 @@
+package org.assign21.java;
+/*Class named Operations have final variables like plus,minus,divide and multiply.
+    This class has a method named calculate which takes 2 inputs of type double and return value in double
+    inside calculate: if plus, inputs are added and returned.(similarly for other methods minus,divide and multiply).
+    AssertionError is also thrown when user doesn't perform any of these operations in default.
+    In your main method: calculate all 4 results and have these printed in console.
+    Make sure to have dynamic inputs.*/
+ class Operation {
+	
+	final int plus = 10;
+	final int minus = 20;
+	final int divide = 30;
+	final int multiple = 40;
+	
+	public void calculate(int a, double b, double c) {
+		return ;
+		
+		
+		}
+	}
+
+

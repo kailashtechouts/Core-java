@@ -1,0 +1,18 @@
+
+y
+java:S1075@"ARefactor your code to get this URI from a customizable parameter.(ÚšÄ£øÿÿÿÿ8Ùáª“ù/Hü	RMINORZ
+CODE_SMELL
+o
+java:S1128"<Remove this unused import 'org.apache.poi.ss.usermodel.Row'.(›Ü…8¥ñ²“ù/Hý	RMINORZ
+CODE_SMELL
+y
+java:S10750"ARefactor your code to get this URI from a customizable parameter.(ÚšÄ£øÿÿÿÿ8Ùáª“ù/Hÿ	RMINORZ
+CODE_SMELL
+š
+java:S1192 "_Define a constant instead of duplicating this literal "D:\\Sample\\sportscomplex.xlsx" 3 times.(ÚšÄ£øÿÿÿÿ8¥ þ“ù/H€
+RCRITICALZ
+CODE_SMELL
+r
+java:S1075 "ARefactor your code to get this URI from a customizable parameter.(ÚšÄ£øÿÿÿÿH„
+RMINORZ
+CODE_SMELL

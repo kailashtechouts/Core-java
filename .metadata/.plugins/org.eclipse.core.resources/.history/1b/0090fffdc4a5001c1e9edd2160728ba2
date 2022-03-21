@@ -1,0 +1,47 @@
+package org.assign1.java;
+/* Implement one-many association for Company and Employee.(Make sure to have rating,startYear for Employee)*/
+class Company {
+
+	private String name;
+	Company(String name)
+	{
+		this.name = name;
+	}
+	public String getCompanyName()
+	{
+		return this.name;
+	}
+}
+
+class Employee {
+
+	private String name;
+	Employee(String name)
+	{
+		this.name = name;
+	}
+	public String getEmployeeName()
+	{
+		return this.name;
+	}
+}
+
+
+class Task1 {
+
+	public static void main(String[] args)
+	{
+
+
+		Company c = new Company("TECHOUTS");
+		Employee emp1 = new Employee("Kailash");
+		Employee emp2 = new Employee("Vamsi");
+		Employee emp3 = new Employee("Raghu");
+		Employee emp4 = new Employee("Babu");
+
+		System.out.println(emp1.getEmployeeName()+ " is employee of "+ c.getCompanyName());
+		System.out.println(emp2.getEmployeeName()+ " is employee of "+ c.getCompanyName());
+		System.out.println(emp3.getEmployeeName()+ " is employee of "+ c.getCompanyName());
+		System.out.println(emp4.getEmployeeName()+ " is employee of "+ c.getCompanyName());
+	}
+}

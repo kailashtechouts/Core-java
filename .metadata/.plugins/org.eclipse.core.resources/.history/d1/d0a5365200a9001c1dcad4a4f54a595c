@@ -1,0 +1,12 @@
+package org.assign1.java;
+/*In an array of 1-10, multiple numbers are duplicates, how do you find duplicates using Map implemented classes.*/
+public class Task7 {
+
+	public static void main(String[] args) {
+
+		int arr[] = {2,3,3,4,7,6,7,5,8,9};
+		
+
+	}
+	}
+}

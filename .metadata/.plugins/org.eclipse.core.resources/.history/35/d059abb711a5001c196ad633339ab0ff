@@ -1,0 +1,39 @@
+import java.io.File;
+import org.apache.poi.ss.usermodel.Cell;
+import org.apache.poi.xssf.usermodel.XSSFRow;
+import org.apache.poi.xssf.usermodel.XSSFSheet;	
+import org.apache.poi.xssf.usermodel.XSSFWorkbook;	
+import java.io.FileOutputStream;
+import java.util.Map;
+import java.util.Set;
+import java.util.TreeMap;
+		  
+public class SaveTheFile {
+			
+	           XSSFWorkbook workbook = new XSSFWorkbook(); 
+               XSSFSheet ss = workbook.createSheet(" Badminton Data ");
+               XSSFSheet ss1 = workbook.createSheet(" Football  Data ");
+               XSSFSheet ss2 = workbook.createSheet(" Boxcricket Data ");
+               
+		    public void saveBadminton() throws Exception
+		    {	  
+		        int rowid = 0;
+		        for(Integer i : Baminton.Filledslot.keySet())
+		            row = spreadsheet.createRow(rowid++);
+		          	String str = (Integer.toString(i))+" "+Baminton.Filledslot.get(i);
+		          	StringTokenizer st = new StringTokenizer(str," ");
+		          	int cellid=0;
+		          	while (st.hasMoreTokens()) {
+		            int cellid = 0;
+		            Cell cell = row.createCell(cellid++);
+		            cell.setCellValue((st.hasNext);
+		            }
+		        }
+		        FileOutputStream out = new FileOutputStream(new File("C:/savedexcel/GFGsheet.xlsx"));
+		        workbook.write(out);
+		        out.close();
+		    }
+		}
+	}
+
+}

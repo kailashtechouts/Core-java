@@ -1,0 +1,19 @@
+package org.assign22.java;
+
+/*Provide an interface Company with 
+default method of return type double calculating the profit(CP-SP)
+static method of return type String which takes (double) input from previous method and returns company name.
+Abstract method String getCompDetails(double profit,String name);=>Needs to be implemented using Lambda expression.*/
+
+interface Company {
+
+	default double profit(int cp, int sp) {
+
+	}
+
+	static  String  () {
+		return name;
+	}
+
+	abstract String getCompanyDetails(double profit, String name);
+}

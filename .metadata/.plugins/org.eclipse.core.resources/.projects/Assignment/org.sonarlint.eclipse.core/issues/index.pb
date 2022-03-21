@@ -1,0 +1,21 @@
+
+P
+ src/org/assign1/java/Task10.java,2\d\2d63956606c2ed243cb4b15b3aa01e99d5d382d0
+P
+ src/org/assign1/java/Task11.java,d\4\d4da4e8c43aaafbe72245a321cc2cf52883ce354
+O
+src/org/assign1/java/Task1.java,9\6\964d2ffdbf1c4eb6d25a0eda42c893d98c96cd7a
+O
+src/org/assign1/java/Task9.java,c\8\c84e4d4e8a8d8a78233278c3a01f1d267170c9a6
+P
+ src/org/assign1/java/Task20.java,d\7\d7b3785140782f04e1b1f3591e19d28da8d2bbac
+O
+src/org/assign1/java/Task4.java,c\4\c4f1ff617ef2b3ca2553e8cf381e240d28c68b12
+O
+src/org/assign1/java/Task3.java,7\0\70c46e33ca719630ec3478817a0ae2bd1cc860de
+P
+ src/org/assign1/java/Task23.java,d\f\dfb6491e8050a872b0948dcfdd7544665e51999a
+P
+ src/org/assign1/java/Task27.java,0\9\0954aa0afd3c646da3ca94459e3fb7cabb55ef9b
+P
+ src/org/assign1/java/Task19.java,d\d\dd5af6bf23c2a7104d78e9ee162a6cee043f037e

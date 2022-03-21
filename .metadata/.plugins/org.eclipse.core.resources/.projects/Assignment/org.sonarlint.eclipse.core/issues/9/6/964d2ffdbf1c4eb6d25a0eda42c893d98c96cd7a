@@ -1,0 +1,12 @@
+
+p	java:S1069"9Replace this use of System.out or System.err by a logger.(Ž‹Ã´ýÿÿÿÿ8ñ‹–µù/H¤RMAJORZ
+CODE_SMELL
+†
+java:S11926"PDefine a constant instead of duplicating this literal "is employee of " 4 times.(ŒšŠ…8ñ‹–µù/H¥RCRITICALZ
+CODE_SMELL
+p	java:S1068"9Replace this use of System.out or System.err by a logger.(­Õ§›ÿÿÿÿÿ8ñ‹–µù/H£RMAJORZ
+CODE_SMELL
+k	java:S1067"9Replace this use of System.out or System.err by a logger.(Íü×€8ñ‹–µù/H¢RMAJORZ
+CODE_SMELL
+k	java:S1066"9Replace this use of System.out or System.err by a logger.(ŒšŠ…8£Ôˆµù/H˜RMAJORZ
+CODE_SMELL

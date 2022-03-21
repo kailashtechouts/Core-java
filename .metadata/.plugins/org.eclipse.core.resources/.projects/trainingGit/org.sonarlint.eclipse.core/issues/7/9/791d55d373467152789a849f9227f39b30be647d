@@ -1,0 +1,25 @@
+
+[
+java:S3740
+"/Provide the parametrized type for this generic.(¸„ÿşHÒRMAJORZ
+CODE_SMELL
+^
+java:S1172%"+Remove this unused method parameter "name".(¤ÜË8ÄÎä³ù/HúRMAJORZ
+CODE_SMELL
+[
+java:S3740
+"/Provide the parametrized type for this generic.(¸„ÿşHÑRMAJORZ
+CODE_SMELL
+i	java:S106("9Replace this use of System.out or System.err by a logger.(‡´ËéùÿÿÿÿHË
+RMAJORZ
+CODE_SMELL
+i	java:S106&"9Replace this use of System.out or System.err by a logger.(‚º˜…ùÿÿÿÿHøRMAJORZ
+CODE_SMELL
+p	java:S106 "9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ8Øâñ³ù/H¼	RMAJORZ
+CODE_SMELL
+
+java:S3008"VRename this field "FilledSlots" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š²ÁÅùÿÿÿÿ8«ª§²ù/H¼RMINORZ
+CODE_SMELL
+|	java:S116
+"QRename this field "Bikes1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸„ÿşHÏRMINORZ
+CODE_SMELL

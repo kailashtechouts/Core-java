@@ -1,0 +1,42 @@
+package org.collectiontask15.java;
+
+import java.util.Scanner;
+
+public class ParkingSlot {
+
+	public static void main(String args[]) {
+		Scanner sc = new Scanner(System.in);
+		Bikes b = new Bikes();
+		Cars c = new Cars();
+		System.out.println("Enter 0 for exit or 1 for details or 2 for select");
+		int l = sc.nextInt();
+		if(l == 0) {
+			System.out.println("Please wait in lobby");
+		}
+		else if(l == 1){
+			System.out.println(Bikes.FilledSlots);
+			System.out.println(Cars.FilledSlots1);
+		}
+			System.out.println("enter 1 for bikes:  or  enter 2 for cars:");
+			int x= sc.nextInt();
+			System.out.println("Enter your name :");
+			String name=sc.next();
+			if(x == 1) {
+			System.out.println("Go to Basement 1");
+			b.availableSlots();
+			System.out.println("Enter the Slot No :");
+			int i=sc.nextInt();
+		    b.bikesSlots(i,name);
+			
+			}
+			if(x == 2) {
+			System.out.println("Go to Basement 2");
+			c.availableSlots1();
+			System.out.println("Enter the Slot No :");
+			int i=sc.nextInt();
+			c.carsSlots(i, name);
+			
+			}
+		}
+	}
+

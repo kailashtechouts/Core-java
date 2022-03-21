@@ -1,0 +1,17 @@
+
+
+java:S3008"WRename this field "FilledSlots1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç î²ÿÿÿÿÿ8©ª§²ù/H±RMINORZ
+CODE_SMELL
+k	java:S106'"9Replace this use of System.out or System.err by a logger.(šëÁ8×âñ³ù/Hº	RMAJORZ
+CODE_SMELL
+`
+java:S3740
+"/Provide the parametrized type for this generic.(€•¨üıÿÿÿÿHîRMAJORZ
+CODE_SMELL
+i	java:S106 "9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿHíRMAJORZ
+CODE_SMELL
+^
+java:S1172$"+Remove this unused method parameter "name".(¶â–ø8£Ş³ù/HáRMAJORZ
+CODE_SMELL
+d	java:S106%"9Replace this use of System.out or System.err by a logger.(ƒ†¼ÓHìRMAJORZ
+CODE_SMELL

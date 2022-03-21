@@ -1,0 +1,24 @@
+package org.assign1.java;
+/*18. Fetch Employee details on decreasing order of their rating and decreasing order of their StartYear from Q.1.
+*/
+
+import java.util.Collections;
+import java.util.List;
+
+public class Task18 extends Task1{
+
+	private static List Employee;
+
+	public static void main(String[] args) {
+
+		Collections.sort(Employee, Collections.reverseOrder());
+		  
+    
+        System.out.println("Sorted ArrayList "
+                           + "in Descending order : "
+                           + Employee);
+    }
+
+	}
+
+

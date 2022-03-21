@@ -1,0 +1,17 @@
+
+R
+java:S2387"$"l" is the name of a field in "Box".(Å¦©¸HÿRBLOCKERZ
+CODE_SMELL
+R
+java:S2387"$"b" is the name of a field in "Box".(Å¦©¸H€RBLOCKERZ
+CODE_SMELL
+R
+java:S2387"$"h" is the name of a field in "Box".(Å¦©¸HRBLOCKERZ
+CODE_SMELL
+j
+java:S1659">Declare "b" and all following declarations on a separate line.(Å¦©¸H‚RMINORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(ÀĞ×›úÿÿÿÿH†RMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(…¯×H‡RMAJORZ
+CODE_SMELL

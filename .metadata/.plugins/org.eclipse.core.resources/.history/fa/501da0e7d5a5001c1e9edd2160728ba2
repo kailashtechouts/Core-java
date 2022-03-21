@@ -1,0 +1,19 @@
+package org.assign1.java;
+/*hashCode(), equals(), toString() and .equals(), .parseInt()=>Perform programs*/
+import java.util.HashMap;
+
+public class Task4 {
+
+	public static void main(String args) {
+		
+		HashMap<String, Integer> hm = new HashMap<>();
+		hm.put("Madhana", 8);
+		hm.put("Raj", 10);
+		hm.put("kaur", 7);
+		hm.put("Deepthi", 4);
+		hm.put("Madhana", 8);
+		hm.put("Poonam", 5);
+		
+		for(Object : hm.)
+		}
+}

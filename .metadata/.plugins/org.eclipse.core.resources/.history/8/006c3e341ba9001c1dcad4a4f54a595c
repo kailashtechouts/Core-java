@@ -1,0 +1,12 @@
+package org.assign22.java;
+
+interface Company {
+
+	double profit(int cp, int sp);
+
+	static double String(double name) {
+		return name;
+	}
+
+	abstract String getCompanyDetails(double profit, String name);
+}

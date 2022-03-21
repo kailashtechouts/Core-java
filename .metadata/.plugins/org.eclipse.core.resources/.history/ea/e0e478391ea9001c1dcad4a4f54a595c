@@ -1,0 +1,17 @@
+package org.assign22.java;
+
+/*Provide an interface Company with 
+	default method of return type double calculating the profit(CP-SP)
+	static method of return type String which takes (double) input from previous method and returns company name.
+	Abstract method String getCompDetails(double profit,String name);=>Needs to be implemented using Lambda expression.*/
+
+public class Task22 {
+
+	public static void main(String[] args) {
+		Company c = (cp, sp) -> {
+			return cp - sp;
+		};
+		System.out.println(c.profit(30, 15));
+	}
+
+}
