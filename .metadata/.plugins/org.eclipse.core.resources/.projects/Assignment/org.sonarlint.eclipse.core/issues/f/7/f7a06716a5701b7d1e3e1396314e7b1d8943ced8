@@ -1,0 +1,9 @@
+
+V
+java:S1197"*Move the array designators [] to the type.(Æ¹Ì‹H¤RMINORZ
+CODE_SMELL
+[
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½ÒþÿÿÿÿHªRMINORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(è–²ÐH©RMAJORZ
+CODE_SMELL

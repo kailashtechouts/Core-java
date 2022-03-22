@@ -1,10 +1,10 @@
 
-k	java:S106"9Replace this use of System.out or System.err by a logger.(ì÷úÀ8á›ö¹ù/H—RMAJORZ
-CODE_SMELL
-p	java:S106"9Replace this use of System.out or System.err by a logger.(—¬žÊûÿÿÿÿ8á›ö¹ù/H•RMAJORZ
+p	java:S106"9Replace this use of System.out or System.err by a logger.(—¬žÊûÿÿÿÿ8á›ö¹ù/HÄRMAJORZ
 CODE_SMELL
 f
-java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8á›ö¹ù/H˜RMINORZ
+java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8á›ö¹ù/HÅRMINORZ
 CODE_SMELL
-p	java:S106"9Replace this use of System.out or System.err by a logger.(ŸÖ³úùÿÿÿÿ8á›ö¹ù/H”RMAJORZ
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ì÷úÀ8á›ö¹ù/HÇRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ŸÖ³úùÿÿÿÿ8á›ö¹ù/HÈRMAJORZ
 CODE_SMELL

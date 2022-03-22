@@ -1,0 +1,6 @@
+package org.assign22.java;
+
+public class Task22 {
+
+	public String gertCompanyDetails(int sp,int cp, String name) {
+}

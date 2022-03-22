@@ -65,11 +65,14 @@ public class Task20 {
 
 		System.out.println("----------------------------------------------------");
 
-		fitr.set("Kaka");  
+		  
 		System.out.println("After using the set() method : ");  
-		for (Object item : football) {  
-			System.out.println(item);  
+		while(fitr.hasPrevious()) {
+			if(fitr.previous() == "Neymar") {
+				fitr.set("Kaka");
+			}
 		}
+		System.out.println(""+football);
 
 	}
 }

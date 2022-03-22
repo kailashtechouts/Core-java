@@ -1,22 +1,22 @@
 
-p	java:S106"9Replace this use of System.out or System.err by a logger.(¢çÓ´ÿÿÿÿÿ8¥™’¼ù/HÛRMAJORZ
-CODE_SMELL
-p	java:S106"9Replace this use of System.out or System.err by a logger.(¸­ı×şÿÿÿÿ8¥™’¼ù/HÜRMAJORZ
-CODE_SMELL
-p	java:S106!"9Replace this use of System.out or System.err by a logger.(Ÿìû‚øÿÿÿÿ8Íø ¼ù/HôRMAJORZ
-CODE_SMELL
 e
 java:S2093
-"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8¥™’¼ù/HßRCRITICALZ
+"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8¥™’¼ù/HŒRCRITICALZ
 CODE_SMELL
-p	java:S106"9Replace this use of System.out or System.err by a logger.(¯ôÓİşÿÿÿÿ8³Áš¼ù/HïRMAJORZ
+c
+java:S1481"+Remove this unused "stream" local variable.(¹Àèúÿÿÿÿ8¥™’¼ù/HRMINORZ
 CODE_SMELL
-p	java:S106"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ8¥™’¼ù/HŞRMAJORZ
+p	java:S106"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ8¥™’¼ù/HRMAJORZ
 CODE_SMELL
-k	java:S106"9Replace this use of System.out or System.err by a logger.(Ÿîà›8¥™’¼ù/HİRMAJORZ
+p	java:S106"9Replace this use of System.out or System.err by a logger.(¯ôÓİşÿÿÿÿ8³Áš¼ù/H‘RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(¢çÓ´ÿÿÿÿÿ8¥™’¼ù/H’RMAJORZ
+CODE_SMELL
+p	java:S106!"9Replace this use of System.out or System.err by a logger.(Ÿìû‚øÿÿÿÿ8Íø ¼ù/H“RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(Ÿîà›8¥™’¼ù/H”RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(¸­ı×şÿÿÿÿ8¥™’¼ù/H•RMAJORZ
 CODE_SMELL
 w
-java:S3518"CMake sure this expression can't be zero before doing this division.(×ˆşÿÿÿÿ8¥™’¼ù/HìRCRITICALZBUG
-c
-java:S1481"+Remove this unused "stream" local variable.(¹Àèúÿÿÿÿ8¥™’¼ù/HÙRMINORZ
-CODE_SMELL
+java:S3518"CMake sure this expression can't be zero before doing this division.(×ˆşÿÿÿÿ8¥™’¼ù/H–RCRITICALZBUG

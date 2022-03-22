@@ -1,0 +1,19 @@
+package org.assign1.java;
+
+import java.util.Collections;
+import java.util.Comparator;
+import java.util.List;
+
+public class Task18 extends Task1{
+	
+	public static void main(String[] args, List rating) {
+
+	
+		Collections.sort(rating,new Comparator<Employee>() {
+		    @Override
+		    public int compare(Employee a, Employee b) {
+		        return b.name.compareTo(a.name);
+		    }
+		});
+	}
+}

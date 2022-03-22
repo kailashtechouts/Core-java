@@ -1,0 +1,20 @@
+package org.assign1.java;
+
+import java.util.Collections;
+import java.util.List;
+
+public class Task18 extends Task1{
+
+	public static void main(String[] args) {
+
+		List Employee;
+		Collections.sort(Employee, Collections.reverseOrder());
+		  
+        // Print the sorted ArrayList
+        System.out.println("Sorted ArrayList "
+                           + "in Descending order : "
+                           + Employee);
+    }
+	}
+
+

@@ -1,0 +1,20 @@
+
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ÿ’‘Îıÿÿÿÿ8¯Ö›ãú/H—RMAJORZ
+CODE_SMELL
+T
+java:S1170"!Make this final field static too.(İàé8â˜³Üú/H×RMINORZ
+CODE_SMELL
+T
+java:S1170
+"!Make this final field static too.(¼Ñï‡8â˜³Üú/HÖRMINORZ
+CODE_SMELL
+Y
+java:S1170"!Make this final field static too.(‰«°òÿÿÿÿÿ8â˜³Üú/HØRMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(˜ÿ¤ûÿÿÿÿ8¯Ö›ãú/H˜RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(­ –8¯Ö›ãú/H–RMAJORZ
+CODE_SMELL
+Y
+java:S1170"!Make this final field static too.(ƒé›Öûÿÿÿÿ8â˜³Üú/HÙRMINORZ
+CODE_SMELL

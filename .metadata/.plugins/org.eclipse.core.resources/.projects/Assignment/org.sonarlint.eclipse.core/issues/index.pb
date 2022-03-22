@@ -19,3 +19,27 @@ P
  src/org/assign1/java/Task27.java,0\9\0954aa0afd3c646da3ca94459e3fb7cabb55ef9b
 P
  src/org/assign1/java/Task19.java,d\d\dd5af6bf23c2a7104d78e9ee162a6cee043f037e
+P
+ src/org/assign1/java/Task26.java,e\7\e75a7276acfdd6acd7dc1cbe003522f037aa37c7
+P
+ src/org/assign1/java/Task25.java,5\f\5fc6e8a550a6572cab3be8adcaed48a1a43de4cd
+O
+src/org/assign1/java/Task8.java,9\7\97b085654b65d0a3800a39e5050d109132b26273
+O
+src/org/assign1/java/Task7.java,f\7\f7a06716a5701b7d1e3e1396314e7b1d8943ced8
+Q
+!src/org/assign21/java/Task21.java,f\0\f0f173ffe8a83ad8c3c69ff1ee793fe110c333ed
+T
+$src/org/assign21/java/Operation.java,a\c\ace743a51b6414244e0cac961399a3e19761c01f
+W
+'src/org/assign2/java/StudyMaterial.java,7\8\786d195d8a2eda3676b3ff46a043a87d53e64654
+O
+src/org/assign2/java/Task2.java,1\6\16066457af54021395ca2bb698ee083c5eda59a6
+Q
+!src/org/assign15/java/Task15.java,5\d\5dd8f5230f4f27a46309cd3ad7de4bc708a4d1e2
+P
+ src/org/assign1/java/Task16.java,2\8\28f78eeea1dd1a9804b4c289565fbdca9746abfa
+S
+#src/org/assign6/java/CheckDate.java,e\4\e4e759a5986795e94327935d791e5c3003467a7a
+Q
+!src/org/assign6/java/Checker.java,5\3\53db9b3bbf820607ea6be00681cba819b98f8392

@@ -1,0 +1,10 @@
+package org.assign1.java;
+
+public class Task18 extends Task1{
+	
+	public static void main(String[] args) {
+
+		
+}
+	}
+		
